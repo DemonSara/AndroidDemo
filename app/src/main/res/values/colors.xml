@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="appThemeColor">#24C167</color>
+    <color name="hometextcolor">#999999</color>
+    <color name="text">#333333</color>
+    <color name="colorE5">#e5e5e5</color>
+    <color name="colorBg">#F5F5F5</color>
+    <color name="colorDivider">#e7e7e7</color>
+    <color name="colorWhite">@android:color/white</color>
+    <color name="colorCircleUnselect">#cccccc</color>
+    <color name="colorMiddleGray">#666666</color>
+    <color name="colorKeywordbg">#E6EBF3</color>
+    <color name="colorDefaultBlack">#333333</color>
+    <color name="colorDefaultRed">#EA3C3C</color>
+    <color name="color_f6">#f6f6f6</color>
+    <color name="color_AE">#FFAEAE</color>
+    <color name="color_24">#24C167</color>
+    <color name="color_91">#91E0B3</color>
+    <color name="color_36">#36455B</color>
+    <color name="color_7E">#7E3C2A</color>
+    <color name="color_39">#39543C</color>
+    <color name="color_54">#544155</color>
+    <color name="color_CC">#CCCCCC</color>
+</resources>
